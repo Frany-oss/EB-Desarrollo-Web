@@ -1,4 +1,7 @@
 # ExamenFinal
+`npm install`
+`npm install bootstrap`
+`ng add @angular/material`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
 
